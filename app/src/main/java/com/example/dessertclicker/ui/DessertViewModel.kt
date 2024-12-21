@@ -51,7 +51,8 @@ class DessertViewModel : ViewModel() {
                 // you'll start producing more expensive desserts as determined by startProductionAmount
                 // We know to break as soon as we see a dessert who's "startProductionAmount" is greater
                 // than the amount sold.
-                // TODO: what does 'brake' mean in the context of ViewModel?
+                // what does 'brake' mean in the context of ViewModel?
+                // whatever
                 break
             }
         }
