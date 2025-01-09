@@ -1,29 +1,14 @@
-Dessert Clicker app
-=====================
+# Dessert Clicker
 
-Code for Android Basics with Compose Codelab.
+This lab project is part of the Android Basics with Compose course.
 
-Introduction
-------------
+Dessert Clicker is a simple dessert-making game where users click a button to "bake" desserts and earn virtual money. 
 
-Dessert Clicker is a game about making desserts.
+## What I Learned
 
-Press the button, make a dessert, earn the big bucks.
+This project provided practical experience with the following Android concepts:
 
-You use this app in the course to explore the Android lifecycle and log messages to
-the Android console (Logcat).
-
-Pre-requisites
---------------
-
-You need to know:
-- How to open, build, and run apps with Android Studio.
-- What an activity is, and how to create one in your app.
-- What the activity's onCreate() method does, and the kind of operations
-  that are performed in that method.
-
-
-Getting Started
----------------
-
-1. Download and run the app.
+*   Android Activity/Composable lifecycle
+*   Logging with Logcat
+*   Compose UI
+*   State Management
